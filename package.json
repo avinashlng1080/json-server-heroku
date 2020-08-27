@@ -13,6 +13,8 @@
   "author": "Jesper Orb",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.12.1"
+    "json-server": "^0.12.1",
+    "rambdax": "^5.1.0",
+    "uuid": "^8.3.0"
   }
 }
